@@ -1,0 +1,11 @@
+ 			Esses são exemplos de boas práticas no GIT.
+
+- Criar uma branch para cada tarefa, para que não confunda a equipe. 
+
+- Manter o código sempre atualizado. 
+
+- Sempre que fizer uma mudança, faça um "commit" detalhando o que foi feito.
+
+- Ser direto no "commit", explicando de forma direta o que foi feito.
+
+- Sempre realizar o "push" após o "commit"
